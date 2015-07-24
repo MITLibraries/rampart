@@ -1,15 +1,128 @@
 {
   "viewports": [
     {
-      "name": "tablet_v",
-      "width": 568,
+      "name": "desktop",
+      "width": 1280,
       "height": 1024
+    },
+    {
+      "name": "nexus_v",
+      "width": 800,
+      "height": 1280
+    },
+    {
+      "name": "iphone_h",
+      "width": 736,
+      "height": 414
+    },
+    {
+      "name": "iphone_v",
+      "width": 414,
+      "height": 736
     }
   ],
   "scenarios": [
     {
       "label": "Homepage",
       "url": "http://libraries.mit.edu",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Location",
+      "url": "http://libraries.mit.edu/hayden",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Study",
+      "url": "http://libraries.mit.edu/study",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Get it",
+      "url": "http://libraries.mit.edu/getit",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Hours",
+      "url": "http://libraries.mit.edu/hours",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Map",
+      "url": "http://libraries.mit.edu/locations",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Ask us",
+      "url": "http://libraries.mit.edu/ask",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Generic page",
+      "url": "http://libraries.mit.edu/about",
       "hideSelectors": [
       ],
       "removeSelectors": [
