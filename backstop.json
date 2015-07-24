@@ -1,0 +1,25 @@
+{
+  "viewports": [
+    {
+      "name": "tablet_v",
+      "width": 568,
+      "height": 1024
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "Homepage",
+      "url": "http://libraries.mit.edu",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    }
+  ]
+}

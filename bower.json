@@ -1,0 +1,19 @@
+{
+  "name": "rampart",
+  "version": "0.1.0",
+  "authors": [
+    "Matt Bernhardt <mjbernha@mit.edu>"
+  ],
+  "description": "Testing setup for MIT Libraries homepage via BackstopJS",
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "backstopjs": "~0.5.1"
+  }
+}

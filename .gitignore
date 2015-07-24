@@ -1,0 +1,5 @@
+# Don't check in components / modules for bower and node
+# Run relevant install commands instead
+bower_components/
+node_modules/
+tests/bitmaps_test/

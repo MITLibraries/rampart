@@ -1,0 +1,23 @@
+{
+  "name": "rampart",
+  "version": "0.1.0",
+  "description": "Testing setup for MIT Libraries homepage via BackstopJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitlibraries/rampart"
+  },
+  "author": "Matt Bernhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitlibraries/rampart"
+  },
+  "homepage": "https://github.com/mitlibraries/rampart",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-backstop": "^0.1.5"
+  }
+}
