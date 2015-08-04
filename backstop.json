@@ -133,6 +133,203 @@
       "readyEvent": null,
       "delay": 500,
       "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Child - Data Management",
+      "url": "http://libraries.mit.edu/data-management",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Child - Document Services",
+      "url": "http://libraries.mit.edu/docs",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body",
+        "div.hours-today"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Child - Conservation and Preservation",
+      "url": "http://libraries.mit.edu/preserve",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Child - Future Spaces",
+      "url": "http://libraries.mit.edu/future-spaces/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Child - News",
+      "url": "http://libraries.mit.edu/news/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Child - Music Oral History",
+      "url": "http://libraries.mit.edu/music-oral-history/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Scholarly Publishing",
+      "url": "http://libraries.mit.edu/scholarly/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Scholarly Publishing Pocasts",
+      "url": "http://libraries.mit.edu/scholarly/mit-open-access/open-access-at-mit/podcasts-videos/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - MIT History",
+      "url": "http://libraries.mit.edu/mithistory",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Exhibits",
+      "url": "http://libraries.mit.edu/exhibits",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Exhibits Slideshow",
+      "url": "http://libraries.mit.edu/exhibits/maihaugen/fascination-of-flight-highlights-from-the-mit-libraries/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Collections",
+      "url": "http://libraries.mit.edu/collections",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Collections Slideshow",
+      "url": "http://libraries.mit.edu/collections/vail-collection/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "Sub - Chomsky",
+      "url": "http://libraries.mit.edu/chomsky/",
+      "hideSelectors": [
+      ],
+      "removeSelectors": [
+      ],
+      "selectors": [
+        "body"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
     }
   ]
 }
